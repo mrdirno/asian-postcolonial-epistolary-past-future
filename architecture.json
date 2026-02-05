@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-epistolary-past-future",
+  "title": "The Teahouse of the Drowned Moon",
+  "tagline": "A curator of digital ghosts must decipher a letter from her dead grandmother to unearth a past that is not finished with the future.",
+  "target_words": 70000,
+  "actual_words": 73439,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Sickness of Remembering",
+    "Archives as Power & Erasure",
+    "Epistolary Time Travel",
+    "Postcolonial Hauntings in a Cybernetic Present"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ghost Came",
+      "words": 3050
+    },
+    {
+      "ch": 2,
+      "title": "The Window That Faces the Mountain",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Language of Skin",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The First Bird Has Flown",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Fragments in the Static",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "The Wholesale Jade Market",
+      "words": 3150
+    },
+    {
+      "ch": 7,
+      "title": "The Hinge",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "A Symphony of Forgetting",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Lotus and the Key",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "Corrupted Palimpsests",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "The Silent Negotiation",
+      "words": 3050
+    },
+    {
+      "ch": 12,
+      "title": "Foundations That Tremble",
+      "words": 3200
+    },
+    {
+      "ch": 13,
+      "title": "The Old Pipes",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "Chosen Forgetting",
+      "words": 3150
+    },
+    {
+      "ch": 15,
+      "title": "Canyon-Bottoms",
+      "words": 3000
+    },
+    {
+      "ch": 16,
+      "title": "The Second Letter Unfolds",
+      "words": 3250
+    },
+    {
+      "ch": 17,
+      "title": "Data-Cataracts",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Pre-Collapse Stamp",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "Whispers in the Alley",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Season Turned",
+      "words": 3350
+    },
+    {
+      "ch": 21,
+      "title": "Authenticating Ghosts",
+      "words": 3000
+    },
+    {
+      "ch": 22,
+      "title": "The Map in the Script",
+      "words": 3150
+    },
+    {
+      "ch": 23,
+      "title": "The Past is Below",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Burden and the Tool",
+      "words": 3200
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from a future descendant, responding to a secret found in Zixin's archive.",
+      "Create a monologue from Old Man Fai's perspective, detailing the other 'ghosts' he has delivered.",
+      "Draft a 'consensus narrative' entry from the state archives about the Collapse, then write the marginalia Zixin would add to it.",
+      "Describe a memory that returns to Zixin's mother as the 'chosen forgetting' begins to crack."
+    ],
+    "technical": [
+      "Design a speculative interface for Zixin's 'forensic palimpsest' software, visualizing corrupted data-streams as a physical landscape.",
+      "Prototype a tactile codex: a book where the raised, interlocking script of the second letter can be felt, triggering different audio fragments of the story."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Kazuo Ishiguro",
+      "Mohsin Hamid",
+      "Ursula K. Le Guin",
+      "Mona Hatoum"
+    ]
+  },
+  "cover_prompt": "A young woman, a curator of digital ghosts, holds a translucent, century-old letter that glows with ethereal data-streams, its paper dissolving into a cascade of holographic tea leaves and fragmented family photographs, [Detailed Scene & Context: inside a hybrid teahouse where traditional wooden lattices are interlaced with neon-lit server racks and spectral faces flicker within porcelain cups, the air thick with the static of unresolved history], [Artistic Style & Medium: in the atmospheric, layered style of Annibale Siconolfi and James Jean, blending cyberpunk detail with painterly, haunting elegance, digital painting], [Composition & Camera: book cover framing, a centered and intimate composition with a shallow depth of field focusing on the letter and her hands, a low-angle shot looking slightly upward to convey monumental discovery], [Lighting & Color Palette: dramatic volumetric lighting where cool, ghostly blues and data-stream cyans pierce through the warm, sepia-toned gloom of aged paper and wooden interiors, punctuated by the deep red of a single, forgotten seal], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
