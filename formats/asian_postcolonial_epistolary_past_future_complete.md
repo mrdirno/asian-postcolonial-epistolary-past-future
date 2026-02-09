@@ -2,7 +2,9 @@
 
 ## **Chapter 1**
 
-The letter arrived on a Tuesday, smelling of rain and diesel. It was not delivered by the pneumatic tube system, nor by one of the silent, silver drones that threaded the sky between the apartment spires. It was handed to me by Old Man Fai at the corner newsstand, his fingers stained with cheap printer ink and betel nut. He held it out like a dead fish, pinched between thumb and forefinger.
+Kiyoshi’s final letter arrived thirty years after the war ended, creased and smelling of brine. I held the future he’d predicted—our gleaming, sterile city—and saw only the past in his fading ink. He wrote of ghosts, and of me. I am the ghost.
+
+
 
 “For you, Zixin. A ghost came.”
 
